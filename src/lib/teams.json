@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "name": "Isko Moreno",
+    "logo": "http://manila.gov.ph/wp-content/uploads/2019/10/Mayor-Isko-Moreno-Domagoso.jpg",
+    "votes": 0
+  },
+  {
+    "_id": 2,
+    "name": "BongBong Marcos",
+    "logo": "https://www.bongbongmarcos.com/wp-content/uploads/2022/04/bongbong-marcos.jpeg",
+    "votes": 0
+  },
+  {
+    "_id": 3,
+    "name": "Leni Robredo",
+    "logo": "https://www.manilatimes.net/manilatimes/uploads/images/2022/05/30/75828.jpg",
+    "votes": 0
+  }
+]
